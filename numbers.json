@@ -1,0 +1,209 @@
+{
+ "candidates": 524,
+ "removed": {
+  "removed_not_about_thesis": 25,
+  "removed_copy_paste_promo": 12
+ },
+ "added_parent_posts": 8,
+ "total": {
+  "posts": 487,
+  "accounts": 170,
+  "views": 838993,
+  "likes": 4895,
+  "bookmarks": 1107
+ },
+ "kept_borderline": {
+  "posts": 28,
+  "views": 41640,
+  "total_without": 797353
+ },
+ "by_group": {
+  "Every team": {
+   "posts": 193,
+   "accounts": 20,
+   "views": 406725,
+   "likes": 2360,
+   "bookmarks": 714,
+   "share": 0.485
+  },
+  "Speakers": {
+   "posts": 23,
+   "accounts": 11,
+   "views": 226838,
+   "likes": 689,
+   "bookmarks": 136,
+   "share": 0.27
+  },
+  "Community": {
+   "posts": 221,
+   "accounts": 131,
+   "views": 144429,
+   "likes": 1452,
+   "bookmarks": 219,
+   "share": 0.172
+  },
+  "Author": {
+   "posts": 32,
+   "accounts": 1,
+   "views": 13483,
+   "likes": 143,
+   "bookmarks": 16,
+   "share": 0.016
+  },
+  "Partners and staff": {
+   "posts": 14,
+   "accounts": 5,
+   "views": 25847,
+   "likes": 231,
+   "bookmarks": 22,
+   "share": 0.031
+  },
+  "Other organizations": {
+   "posts": 4,
+   "accounts": 2,
+   "views": 21671,
+   "likes": 20,
+   "bookmarks": 0,
+   "share": 0.026
+  }
+ },
+ "team_plus_speakers_share": 0.755,
+ "dan_plus_ambrosino": {
+  "views": 303772,
+  "share": 0.362
+ },
+ "top_post": {
+  "id": "2118505536031174658",
+  "user": "ajambrosino",
+  "views": 130392,
+  "share": 0.155,
+  "total_without": 708601
+ },
+ "by_phase": {
+  "before": {
+   "posts": 145,
+   "accounts": 59,
+   "views": 353495,
+   "likes": 1922,
+   "bookmarks": 402,
+   "days": 9,
+   "views_per_day": 39277,
+   "share": 0.421
+  },
+  "day": {
+   "posts": 239,
+   "accounts": 106,
+   "views": 415649,
+   "likes": 2339,
+   "bookmarks": 395,
+   "days": 1,
+   "views_per_day": 415649,
+   "share": 0.495
+  },
+  "after": {
+   "posts": 103,
+   "accounts": 51,
+   "views": 69849,
+   "likes": 634,
+   "bookmarks": 310,
+   "days": 5,
+   "views_per_day": 13970,
+   "share": 0.083
+  }
+ },
+ "nov5_views_without_top": 285257,
+ "views_by_day": {
+  "2026-10-28": 7065,
+  "2026-10-29": 69754,
+  "2026-10-30": 51422,
+  "2026-10-31": 2805,
+  "2026-11-01": 2887,
+  "2026-11-02": 65032,
+  "2026-11-03": 65371,
+  "2026-11-04": 89159,
+  "2026-11-05": 415649,
+  "2026-11-06": 45616,
+  "2026-11-07": 21666,
+  "2026-11-09": 939,
+  "2026-11-10": 1628
+ },
+ "posts_by_day": {
+  "2026-10-28": 3,
+  "2026-10-29": 24,
+  "2026-10-30": 8,
+  "2026-10-31": 3,
+  "2026-11-01": 1,
+  "2026-11-02": 25,
+  "2026-11-03": 37,
+  "2026-11-04": 44,
+  "2026-11-05": 239,
+  "2026-11-06": 75,
+  "2026-11-07": 21,
+  "2026-11-09": 5,
+  "2026-11-10": 2
+ },
+ "nov5_posts_by_hour": {
+  "5": 1,
+  "7": 3,
+  "8": 9,
+  "9": 25,
+  "10": 28,
+  "11": 26,
+  "12": 20,
+  "13": 12,
+  "14": 18,
+  "15": 27,
+  "16": 13,
+  "17": 7,
+  "18": 9,
+  "19": 11,
+  "20": 12,
+  "21": 9,
+  "22": 8,
+  "23": 1
+ },
+ "top_before": [
+  [
+   "ajambrosino",
+   "2116279886205882734",
+   33744
+  ],
+  [
+   "danshipper",
+   "2115900296585257296",
+   29164
+  ],
+  [
+   "danshipper",
+   "2117980132040114685",
+   22406
+  ]
+ ],
+ "community_followers": {
+  "sum": 1224189,
+  "over_10k": 24,
+  "over_100k": 2
+ },
+ "lang": {
+  "en": 465,
+  "qme": 12,
+  "qst": 3,
+  "it": 1,
+  "und": 2,
+  "art": 2,
+  "es": 1,
+  "qam": 1
+ },
+ "community_topics": {
+  "Praise for the event as a whole": 39,
+  "Lines, takeaways or replies about a talk": 39,
+  "Going, meeting up, excited beforehand": 25,
+  "The stream and watching online": 20,
+  "Design, venue, how people dressed": 16,
+  "The books Dan picked": 15,
+  "Couldn't make it, FOMO": 14,
+  "The 400-person size and the people there": 8,
+  "Asking about recordings": 4
+ },
+ "community_posts_with_no_topic": 61
+}

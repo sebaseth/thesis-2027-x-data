@@ -1,0 +1,10 @@
+{
+  "note": "Counts only. Account handles are withheld so this file does not publicly label specific people.",
+  "total": 98,
+  "by_reason": {
+    "declared_bots": 5,
+    "crypto_reply_farms": 31,
+    "generic_ai_replies": 29,
+    "off_topic": 33
+  }
+}
